@@ -1,5 +1,7 @@
 java即时聊天工具
 
+编译器版本：jdk1.8
+
 ashengtongxun目录是项目的客户端部分
 ashengtongxun_server目录是项目的服务器端部分
 
